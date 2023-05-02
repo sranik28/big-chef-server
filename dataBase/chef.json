@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1",
+        "name": "RICHARD NAUZ",
+        "experience": "3 years",
+        "number_of_recipes": "3",
+        "likes": "150050",
+        "image": "/chef1.jpg"
+    },
+    {
+        "_id": "2",
+        "name": "OLIVIA GROSH",
+        "experience": "5 years",
+        "number_of_recipes": "3",
+        "likes": "1158540",
+        "image": "/chef2.jpg"
+    },
+    {
+        "_id": "3",
+        "name": "JEREMY WHITE",
+        "experience": "1 years",
+        "number_of_recipes": "3",
+        "likes": "56050",
+        "image": "/chef3.jpg"
+    },
+    {
+        "_id": "4",
+        "name": "HOWARD HOLMES",
+        "experience": "8 years",
+        "number_of_recipes": "5",
+        "likes": "11158050",
+        "image": "/chef4.jpg"
+    },
+    {
+        "_id": "5",
+        "name": "ICHARD INAUZ",
+        "experience": "2 years",
+        "number_of_recipes": "3",
+        "likes": "156050",
+        "image": "/chef5.jpg"
+    },
+    {
+        "_id": "6",
+        "name": "RINAUZ",
+        "experience": "5 years",
+        "number_of_recipes": "4",
+        "likes": "415005",
+        "image": "/chef6.jpg"
+    }
+]
