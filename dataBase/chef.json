@@ -9,9 +9,9 @@
         "bio": "Chef Gordon Ramsay: A renowned British chef and television personality, Gordon Ramsay has made a name for himself in the culinary world with his fiery personality and exceptional cooking skills. He has opened several successful restaurants across the globe and has received numerous accolades for his contributions to the industry.",
         "recipes": [
             {
-                "recipe_name": "Bitterballen (Dutch meatballs)",
+                "recipe_name": "Spicy Arrabiata Penne",
                 "cooking_method": "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a couple of minutes on a low heat while you stir in the onion, parsley and the shredded meat. The mixture should thicken and turn into a heavy, thick sauce. Pour the mixture into a shallow container, cover and refrigerate for several hours, or until the sauce has solidified. Take a heaping tablespoon of the cold, thick sauce and quickly roll it into a small ball. Roll lightly through the flour, then the egg and finally the breadcrumbs.   ",
-                "food_image": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg",
+                "food_image": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
                 "ratings": "4.8",
                 "ingredient": [
                     "Butter",
@@ -23,9 +23,9 @@
                 ]
             },
             {
-                "recipe_name": "Chocolate Caramel Crispy",
+                "recipe_name": "Dal fry",
                 "cooking_method": "Grease and line a 20 x 20cm/8 baking tin with parchment paper. Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smooth. Pour over the rice krispies in a mixing bowl and mix until all the ingredients are evenly combined. Press evenly into the prepare baking tin and set aside. Melt the milk chocolate in the microwave or over a pan of barely simmering water. Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place. Once set slice into squares and serve!",
-                "food_image": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
+                "food_image": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
                 "ratings": "4.9",
                 "ingredient": [
                     "Rice Krispies",
@@ -37,9 +37,9 @@
                 ]
             },
             {
-                "recipe_name": "Lamb Tagine",
+                "recipe_name": "Lamb Biryani",
                 "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour. Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
-                "food_image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+                "food_image": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
                 "ratings": "4.7",
                 "ingredient": [
                     "Olive Oil",
@@ -54,7 +54,7 @@
     },
     {
         "_id": "2",
-        "name": "Abtahi Islam",
+        "name": "Harper",
         "experience": "5 years",
         "number_of_recipes": "3",
         "likes": "2158580",
@@ -62,9 +62,9 @@
         "bio": "Chef Julia Child: Widely regarded as one of the most influential chefs of the 20th century, Julia Child was an American chef and television personality who introduced French cuisine to the American public through her popular TV show, The French Chef. She authored several cookbooks and received numerous awards for her contributions to the culinary world.",
         "recipes": [
             {
-                "recipe_name": "Baingan Bharta",
-                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red. 4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke. 5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is cooked, just like the way we do for Dal Tadka. 6. Peel the skin from the roasted and smoked eggplant. 7. Chop the cooked eggplant finely or you can even mash it. 8. In a kadai or pan, heat oil. Then add finely chopped onions and garlic. 9. Saute the onions till translucent. Don't brown them. 10. Add chopped green chilies and saute for a minute. 11. Add the chopped tomatoes and mix it well. 12. Bhuno (saute) the tomatoes till the oil starts separating from the mixture. 13. Now add the red chili powder. Stir and mix well. 14. Add the chopped cooked baingan. 15. Stir and mix the chopped baingan very well with the onion­tomato masala mixture. 16. Season with salt. Stir and saute for some more 4 to 5 minutes more. 17. Finally stir in the coriander leaves with the baingan bharta or garnish it with them. Serve Baingan Bharta with phulkas, rotis or chapatis. It goes well even with bread, toasted or grilled bread and plain rice or jeera rice.",
-                "food_image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+                "recipe_name": "Lamb Rogan josh",
+                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan.  ",
+                "food_image": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
                 "ratings": "4.5",
                 "ingredient": [
                     "Aubergine",
@@ -77,9 +77,9 @@
                 ]
             },
             {
-                "recipe_name": "Banana Pancakes",
+                "recipe_name": "Thai Green Curry",
                 "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-                "food_image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+                "food_image": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
                 "ratings": "4.6",
                 "ingredient": [
                     "Banana",
@@ -91,9 +91,9 @@
                 ]
             },
             {
-                "recipe_name": "Lamb Tagine",
+                "recipe_name": " Katsu Chicken curry",
                 "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour. Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
-                "food_image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+                "food_image": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
                 "ratings": "4.7",
                 "ingredient": [
                     "Olive Oil",
@@ -116,9 +116,9 @@
         "bio": "Chef Massimo Bottura: An Italian chef and restaurateur, Massimo Bottura is the owner and head chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine and has received numerous awards for his contributions to the industry.",
         "recipes": [
             {
-                "recipe_name": "Baingan Bharta",
-                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red. 4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke. 5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is cooked, just like the way we do for Dal Tadka. 6. Peel the skin from the roasted and smoked eggplant. 7. Chop the cooked eggplant finely or you can even mash it. 8. In a kadai or pan, heat oil. Then add finely chopped onions and garlic. 9. Saute the onions till translucent. Don't brown them. 10. Add chopped green chilies and saute for a minute.  ",
-                "food_image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+                "recipe_name": "Massaman Beef curry",
+                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. Use natural charcoal for this method.",
+                "food_image": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
                 "ratings": "4.1",
                 "ingredient": [
                     "Aubergine",
@@ -131,12 +131,11 @@
                 ]
             },
             {
-                "recipe_name": "Banana Pancakes",
+                "recipe_name": "Matar Paneer",
                 "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-                "food_image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+                "food_image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
                 "ratings": "4.9",
                 "ingredient": [
-                    "Banana",
                     "Eggs",
                     "Baking Powder",
                     "Raspberries",
@@ -145,9 +144,9 @@
                 ]
             },
             {
-                "recipe_name": "Lamb Tagine",
+                "recipe_name": "Kidney Bean Curry",
                 "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour. Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
-                "food_image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+                "food_image": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
                 "ratings": "4.7",
                 "ingredient": [
                     "Olive Oil",
@@ -170,9 +169,9 @@
         "bio": "Chef Dominique Crenn: A French chef based in the United States, Dominique Crenn is the first female chef in the US to receive three Michelin stars. She is the owner and head chef of Atelier Crenn, a restaurant in San Francisco that offers a unique and creative approach to fine dining.",
         "recipes": [
             {
-                "recipe_name": "Baingan Bharta",
-                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red. 4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke. 5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is cooked, just like the way we do for Dal Tadka. 6. Peel the skin from the roasted and smoked eggplant. 7. Chop the cooked eggplant finely or you can even mash it. 8. In a kadai or pan, heat oil. Then add finely chopped onions and garlic. 9. Saute the onions till translucent. Don't brown them. 10. Add chopped green chilies and saute for a minute.",
-                "food_image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+                "recipe_name": "Jerk chicken with rice & peas",
+                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red. 4. Make small cuts on the baingan with a knife",
+                "food_image": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg",
                 "ratings": "4.4",
                 "ingredient": [
                     "Aubergine",
@@ -185,9 +184,9 @@
                 ]
             },
             {
-                "recipe_name": "Banana Pancakes",
+                "recipe_name": "Red curry",
                 "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-                "food_image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+                "food_image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/01/red-curry-chicken-blog.jpg",
                 "ratings": "4.6",
                 "ingredient": [
                     "Banana",
@@ -199,9 +198,9 @@
                 ]
             },
             {
-                "recipe_name": "Lamb Tagine",
+                "recipe_name": " Cashew Chicken",
                 "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour. Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
-                "food_image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+                "food_image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/05/cashew-chicken-sq.jpg",
                 "ratings": "4.3",
                 "ingredient": [
                     "Olive Oil",
@@ -213,9 +212,9 @@
                 ]
             },
             {
-                "recipe_name": "Bitterballen (Dutch meatballs)",
+                "recipe_name": "glass noodles",
                 "cooking_method": "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a couple of minutes on a low heat while you stir in the onion, parsley and the shredded meat. The mixture should thicken and turn into a heavy, thick sauce. Pour the mixture into a shallow container, cover and refrigerate for several hours, or until the sauce has solidified. Take a heaping tablespoon of the cold, thick sauce and quickly roll it into a small ball. Roll lightly through the flour, then the egg and finally the breadcrumbs. Make sure that the egg covers the whole surface of the bitterbal. When done, refrigerate the snacks while the oil in your fryer heats up to 190C (375F). Fry four bitterballen at a time, until golden. Serve on a plate with a nice grainy or spicy mustard. ",
-                "food_image": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg",
+                "food_image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/08/pad-thai-woonsen-fork-sq.jpg",
                 "ratings": "5.0",
                 "ingredient": [
                     "Butter",
@@ -227,9 +226,9 @@
                 ]
             },
             {
-                "recipe_name": "Chocolate Caramel Crispy",
+                "recipe_name": "Tom Yum Goong",
                 "cooking_method": "Grease and line a 20 x 20cm/8 baking tin with parchment paper. Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smooth. Pour over the rice krispies in a mixing bowl and mix until all the ingredients are evenly combined. Press evenly into the prepare baking tin and set aside. Melt the milk chocolate in the microwave or over a pan of barely simmering water. Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place. Once set slice into squares and serve!",
-                "food_image": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
+                "food_image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
                 "ratings": "4.0",
                 "ingredient": [
                     "Rice Krispies",
@@ -252,9 +251,9 @@
         "bio": "Chef Marcus Samuelsson: A Swedish-Ethiopian chef and restaurateur, Marcus Samuelsson is the owner and head chef of several successful restaurants, including Red Rooster in Harlem and Marcus B&P in Newark. He is known for his fusion of traditional African, European, and American cuisine and has received numerous awards for his contributions to the industry.",
         "recipes": [
             {
-                "recipe_name": "Baingan Bharta",
-                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red. 4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke. 5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is cooked, just like the way we do for Dal Tadka. 6. Peel the skin from the roasted and smoked eggplant. 7. Chop the cooked eggplant finely or you can even mash it. 8. In a kadai or pan, heat oil. Then add finely chopped onions and garlic. 9. Saute the onions till translucent. Don't brown them. 10. Add chopped green chilies and saute for a minute.",
-                "food_image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+                "recipe_name": "Mee Krob Song Kreuang",
+                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step.",
+                "food_image": "https://hot-thai-kitchen.com/wp-content/uploads/2021/08/Crispy-pad-thai-blog.jpg",
                 "ratings": "4.2",
                 "ingredient": [
                     "Aubergine",
@@ -267,9 +266,9 @@
                 ]
             },
             {
-                "recipe_name": "Banana Pancakes",
+                "recipe_name": "Crispy Garlic Fish",
                 "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-                "food_image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+                "food_image": "https://hot-thai-kitchen.com/wp-content/uploads/2020/07/CRISPY-GARLIC-TROUT-720x1080.jpg",
                 "ratings": "4.8",
                 "ingredient": [
                     "Banana",
@@ -281,9 +280,9 @@
                 ]
             },
             {
-                "recipe_name": "Lamb Tagine",
+                "recipe_name": " mini wrap",
                 "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour. Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
-                "food_image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+                "food_image": "https://www.thespruceeats.com/thmb/GPecU3V__toiFIJgZdRhD1xnNU0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mini-shrimp-lettuce-wraps-3217683-hero-01-593a2d390eb84b87b8b1904ce4f86e4c.jpg",
                 "ratings": "4.7",
                 "ingredient": [
                     "Olive Oil",
@@ -306,9 +305,9 @@
         "bio": "Chef José Andrés: A Spanish-American chef and humanitarian, José Andrés is the owner and head chef of several successful restaurants, including Jaleo and minibar by José Andrés. He is also the founder of World Central Kitchen, a non-profit organization that provides food relief to disaster-stricken areas around the world. Andrés has received numerous awards for his contributions to the culinary industry and his philanthropic work.",
         "recipes": [
             {
-                "recipe_name": "Baingan Bharta",
-                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red. 4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke. 5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is cooked, just like the way we do for Dal Tadka. 6. Peel the skin from the roasted and smoked eggplant. 7. Chop the cooked eggplant finely or you can even mash it. 8. In a kadai or pan, heat oil. Then add finely chopped onions and garlic. 9. Saute the onions till translucent. Don't brown them. 10. Add chopped green chilies and saute for a minute.",
-                "food_image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+                "recipe_name": " traditional Thai fish recipe ",
+                "cooking_method": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly cooked. You could also embed some garlic cloves in the baingan and then roast it. 2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools down. 3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step. ",
+                "food_image": "https://www.thespruceeats.com/thmb/SxK7pdZMl6qU0Myxhh-FQJNjcC8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/thai-grilled-whole-fish-with-coriander-chili-sauce-3217485-Step_07-382720d9c07b48feb4e5d252e61c73de.jpg",
                 "ratings": "4.5",
                 "ingredient": [
                     "Aubergine",
@@ -321,9 +320,9 @@
                 ]
             },
             {
-                "recipe_name": "Banana Pancakes",
+                "recipe_name": "coconut milk",
                 "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-                "food_image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+                "food_image": "https://www.thespruceeats.com/thmb/7387H9taF-ZkkfbAQQhRLztkp88=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tom-yum-soup-with-coconut-milk-3217484-Hero_02-ee51f8e727ff464a8b727a0059612b81.jpg",
                 "ratings": "4.6",
                 "ingredient": [
                     "Banana",
@@ -335,9 +334,9 @@
                 ]
             },
             {
-                "recipe_name": "Lamb Tagine",
+                "recipe_name": "Black sticky rice",
                 "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour. Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
-                "food_image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+                "food_image": "https://www.thespruceeats.com/thmb/jIuvOxotTTtGi9kwWUEMjjUw36g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/thai-black-sticky-rice-pudding-3217341-hero-01-3a1296f66de24156accbb54ba7c00279.jpg",
                 "ratings": "4.7",
                 "ingredient": [
                     "Olive Oil",
@@ -349,17 +348,16 @@
                 ]
             },
             {
-                "recipe_name": "Lamb Tagine",
+                "recipe_name": "Thai Green Curry Paste",
                 "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened. Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released. Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour. Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
-                "food_image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+                "food_image": "https://www.thespruceeats.com/thmb/aaCjp5DewspkrSXgmK0EmVjCFas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/thai-green-curry-paste-3217305-hero-03-752c3d09ea444534ab152b3821b2c341.jpg",
                 "ratings": "4.7",
                 "ingredient": [
                     "Olive Oil",
-                    "Flour",
+                    "Beff",
                     "Carrots",
                     "Onion",
-                    "Cumin",
-                    "Honey"
+                    "Cumin"
                 ]
             }
         ]
