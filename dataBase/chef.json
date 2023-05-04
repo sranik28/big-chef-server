@@ -1,7 +1,7 @@
 [
     {
         "_id": "1",
-        "name": "Arnob Tuhin",
+        "name": "Abhisit",
         "experience": "5 years",
         "number_of_recipes": "3",
         "likes": "1500500",
@@ -54,7 +54,7 @@
     },
     {
         "_id": "2",
-        "name": "Harper",
+        "name": "Bhumibol",
         "experience": "5 years",
         "number_of_recipes": "3",
         "likes": "2158580",
@@ -108,8 +108,8 @@
     },
     {
         "_id": "3",
-        "name": "James Bored",
-        "experience": "2 years",
+        "name": "Chakkrit",
+        "experience": "5 years",
         "number_of_recipes": "3",
         "likes": "56050",
         "image": "https://big-chef-data.vercel.app/chef3.jpg",
@@ -161,7 +161,7 @@
     },
     {
         "_id": "4",
-        "name": "TiTu islam",
+        "name": "Eakasit",
         "experience": "8 years",
         "number_of_recipes": "5",
         "likes": "11158050",
@@ -221,8 +221,7 @@
                     "Flour",
                     "Beef Stock",
                     "Onion",
-                    "Parsley",
-                    "Beef"
+                    "Parsley"
                 ]
             },
             {
@@ -243,7 +242,7 @@
     },
     {
         "_id": "5",
-        "name": "M. Salah",
+        "name": "Itthiphon",
         "experience": "4 years",
         "number_of_recipes": "3",
         "likes": "15605010",
@@ -297,7 +296,7 @@
     },
     {
         "_id": "6",
-        "name": "Tim Cok",
+        "name": "Jirayu",
         "experience": "5 years",
         "number_of_recipes": "4",
         "likes": "41500510",
